@@ -1,7 +1,7 @@
 ![logo](https://github.com/Amutha2022/Amutha2022/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Amutha</h1>
 <h3 align="center">I am an ISTQB Foundation Level Certified Tester</h3>
-
+<img align = "right" alt ="coding" width = "400" src = "https://github.com/Amutha2022/Amutha2022/blob/main/coding.mp4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amutha2022&label=Profile%20views&color=0e75b6&style=flat" alt="amutha2022" /> </p>
 
 - 🔭 I’m currently working on **Python Django frameworks**
