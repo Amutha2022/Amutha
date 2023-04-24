@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Amutha</h1>
 <h3 align="center">I am an ISTQB Foundation Level Certified Tester</h3>
 
