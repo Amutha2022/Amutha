@@ -1,5 +1,5 @@
 ![logo](https://github.com/Amutha2022/Amutha2022/blob/main/Image.png)
-<h1 align="center">Hi 👋, I'm Amutha</h1>
+<h1 align="center">Thanks for visiting!!</h1>
 <h3 align="center">I am an ISTQB Foundation Level Certified Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amutha2022&label=Profile%20views&color=0e75b6&style=flat" alt="amutha2022" /> </p>
