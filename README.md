@@ -1,4 +1,4 @@
-![logo](https://github.com/Amutha2022/Amutha2022/blob/main/Banner.jpg)
+![logo](https://github.com/Amutha2022/Amutha2022/blob/main/Image.png)
 <h1 align="center">Hi 👋, I'm Amutha</h1>
 <h3 align="center">I am an ISTQB Foundation Level Certified Tester</h3>
 
